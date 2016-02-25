@@ -1,0 +1,26 @@
+.refferal-box {
+    max-width: 600px;
+}
+.reffer {
+	border: 1px solid #333;
+	padding: 3px;
+	float: left;
+	margin: 10px 0px;
+}
+.reffer-half{
+	width: 50%;
+	float: left;
+	padding: 5px;
+}
+.reffer-full{
+	width: 100%;
+	float: left;
+	padding: 5px;
+}
+.reffer-half label,.reffer-full label{
+	width: 100%;
+	font-size: 16px;
+}
+.reffer-half input, .reffer-full input{
+	width: 100%;
+}
